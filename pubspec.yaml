@@ -1,0 +1,5 @@
+name: fiqh_dart_safar_qasr_distance
+description: "Musafir Prayer Qasr & Jam' Distance Threshold Evaluator"
+version: 1.0.0
+environment:
+  sdk: ">=3.0.0 <4.0.0"
